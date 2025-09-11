@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "VisiTTracking/1.0.0": {
+        "runtime": {
+          "VisiTTracking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VisiTTracking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
