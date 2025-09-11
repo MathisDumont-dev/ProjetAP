@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_accueil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_creerMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_creerVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_creerVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_modifierMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_modifierVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_supprimerMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_supprimerVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_voirMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_voirVisite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_voirVisiteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
