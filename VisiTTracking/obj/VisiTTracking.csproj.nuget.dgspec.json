@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\deuxième année\\projet ap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj": {}
+    "F:\\deuxiemeannee\\projetap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj": {}
   },
   "projects": {
-    "F:\\deuxième année\\projet ap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj": {
+    "F:\\deuxiemeannee\\projetap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\deuxième année\\projet ap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj",
+        "projectUniqueName": "F:\\deuxiemeannee\\projetap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj",
         "projectName": "VisiTTracking",
-        "projectPath": "F:\\deuxième année\\projet ap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj",
+        "projectPath": "F:\\deuxiemeannee\\projetap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\VisiTTracking.csproj",
         "packagesPath": "C:\\Users\\Utilisateur\\.nuget\\packages\\",
-        "outputPath": "F:\\deuxième année\\projet ap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\obj\\",
+        "outputPath": "F:\\deuxiemeannee\\projetap\\AP_VTT_depart-main\\AP_VTT_depart-main\\VisiTTracking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
