@@ -114,7 +114,7 @@ namespace VisiTTracking
             }
             else
             {
-                throw new Exception("Medecin non trouvé");
+                throw new Exception("Médecin non trouvé");
             }
         }
         /// <summary>
